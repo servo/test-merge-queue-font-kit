@@ -1,4 +1,6 @@
-# font-kit
+# *Test repository* font-kit
+
+*Do not use this repo*
 
 [![Build Status](https://github.com/servo/font-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/servo/font-kit/actions)
 [![crates.io](https://img.shields.io/crates/v/font-kit.svg)](https://crates.io/crates/font-kit)
